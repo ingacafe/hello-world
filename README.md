@@ -1,2 +1,2 @@
 # hello-world
-Just getting started
+Let's get this party started
